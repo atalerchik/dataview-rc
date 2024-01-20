@@ -1,0 +1,10 @@
+[package]
+name = "dataview_obsidian_rc"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+dotenv = "0.15.0"
+glob = "0.3.0"
+regex = "1"
+
